@@ -1,5 +1,5 @@
 homepage: "https://xdid.net"
 documentation: "https://xdid.net/documentation"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 402dfcc66f39e93102ab6a766e3e3a4770cfde40
     changeNotes: Initial release.
